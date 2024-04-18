@@ -1,0 +1,49 @@
+body{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: black;
+ background-color: azure ;
+
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: black;
+
+}
+.font-weight-bold{
+    color: black;
+}
+/* div styles*/
+.common{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.top{
+top: 0px;
+left: 0px;
+right: 0px;
+}
+.middle{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+}
+.bottom{
+    position:fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center ;
+    background-color: darkgrey ;
+    font-style: oblique;
+    font-weight: bold;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 5px solid grey;
+    width: 540px;
+    height: 360px;
+}
+
+
+assets/img/portfolio/thumbnails/1.jpg
